@@ -1,0 +1,283 @@
+{
+  "isbn": "123",
+  "program": "123",
+  "grade": "123",
+  "programType": "ela",
+  "teacher": [
+    {
+      "component": "Core Resources",
+      "libraryItems": [
+        {
+          "id": "9781328926043-00001",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUC1",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "Fluency Check 1 supports Unit 4, Big Idea 1: Story Problems and Equations.",
+          "display_title": " Fluency Check 1",
+           "component": "Fluency",
+          "component_type": "Fluency Check",
+          "dashboardGroup": "Core Resources"
+        },
+        {
+          "id": "9781328926043-00002",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUC2",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "Fluency Check 2 supports Unit 4, Big Idea 2: Practice with Comparing.",
+          "display_title": " Fluency Check 2",
+           "component": "Fluency",
+          "component_type": "Fluency Check",
+          "dashboardGroup": "Core Resources"
+        },
+        {
+          "id": "9781328926043-00003",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUC3",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "Fluency Check 3 supports Unit 4, Big Idea 4: Equations for Partners.",
+          "display_title": " Fluency Check 3",
+           "component": "Fluency",
+          "component_type": "Fluency Check",
+          "dashboardGroup": "Core Resources"
+        },
+        {
+          "id": "9781328926043-00004",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUC4",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "Fluency Check 4 supports Unit 5, Big Idea 1: More Partners of 10.",
+          "display_title": " Fluency Check 4",
+           "component": "Fluency",
+          "component_type": "Fluency Check",
+          "dashboardGroup": "Core Resources"
+        },
+        {
+          "id": "9781328926043-00005",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUC5",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "Fluency Check 5 supports Unit 5, Big Idea 3: More Teen Numbers and Partners.",
+          "display_title": " Fluency Check 5",
+           "component": "Fluency",
+          "component_type": "Fluency Check",
+          "dashboardGroup": "Core Resources"
+        },
+        {
+          "id": "9781328926043-00006",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUC6",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "Fluency Check 6 supports Unit 5, Big Idea 4: More Story Problems and Equations.",
+          "display_title": " Fluency Check 6",
+           "component": "Fluency",
+          "component_type": "Fluency Check",
+          "dashboardGroup": "Core Resources"
+        },
+        {
+          "id": "9781328926043-00007",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUPA1",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "This grade-level fluency builder focuses on addition within 5.",
+          "display_title": "Fluency Assignment: Grade-Level Fluency Builder: Addition",
+          "component": "Fluency",
+          "component_type": "Fluency Pratice",
+          "dashboardGroup": "Core Resources"
+        },
+       
+        {
+          "id": "9781328926043-00009",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUPS1",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "This grade-level fluency builder focuses on subtraction within 5.",
+          "display_title": "Fluency Assignment: Grade-Level Fluency Builder: Subtraction",
+          "component": "Fluency",
+          "component_type": "Fluency Pratice",
+          "dashboardGroup": "Core Resources"
+        },
+       
+        {
+          "id": "9781328926043-00011",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUPAS1",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "This grade-level fluency builder focuses on mixed addition and subtraction within 5.",
+          "display_title": "Fluency Assignment: Grade-Level Fluency Builder: Addition and Subtraction",
+          "component": "Fluency",
+          "component_type": "Fluency Pratice",
+          "dashboardGroup": "Core Resources"
+        },
+        
+        {
+          "id": "9781328926043-00013",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUPCA1",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "This future fluency starter focuses on all addition within 10, weighted toward easy.",
+          "display_title": "Fluency Assignment: Future Fluency Starter: Grade 1 Addition",
+          "component": "Fluency",
+          "component_type": "Fluency Pratice",
+          "dashboardGroup": "Core Resources"
+        },
+        
+        {
+          "id": "9781328926043-00015",
+          "card": 15,
+          "HMH_ID": "NAME18GRAK_FLUPCS1",
+          "media_type": "HTML",
+          "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+          "se_facing": true,
+          "sort_id": "",
+          "categorization": "Assessments",
+          "tool_type": 11,
+          "meaningful_description": "This future fluency starter focuses on all subtraction within 10, weighted toward easy.",
+          "display_title": "Fluency Assignment: Future Fluency Starter: Grade 1 Subtraction",
+          "component": "Fluency",
+          "component_type": "Fluency Pratice",
+          "dashboardGroup": "Core Resources"
+        }
+       
+       
+      ]
+    }
+  ],
+  "student": [
+   
+    {
+      "id": "9781328926043-00007",
+      "card": 15,
+      "HMH_ID": "NAME18GRAK_FLUPA1",
+      "media_type": "HTML",
+      "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+      "se_facing": true,
+      "sort_id": "",
+      "categorization": "Assessments",
+      "tool_type": 11,
+      "meaningful_description": "This grade-level fluency builder focuses on addition within 5.",
+      "display_title": "    Add",
+      "component": "Fluency",
+      "component_type": "Fluency Pratice",
+      "dashboardGroup": "Core Resources"
+    },
+    
+    {
+      "id": "9781328926043-00009",
+      "card": 15,
+      "HMH_ID": "NAME18GRAK_FLUPS1",
+      "media_type": "HTML",
+      "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+      "se_facing": true,
+      "sort_id": "",
+      "categorization": "Assessments",
+      "tool_type": 11,
+      "meaningful_description": "This grade-level fluency builder focuses on subtraction within 5.",
+      "display_title": "    Subtract",
+      "component": "Fluency",
+      "component_type": "Fluency Pratice",
+      "dashboardGroup": "Core Resources"
+    },
+   
+    {
+      "id": "9781328926043-00011",
+      "card": 15,
+      "HMH_ID": "NAME18GRAK_FLUPAS1",
+      "media_type": "HTML",
+      "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+      "se_facing": true,
+      "sort_id": "",
+      "categorization": "Assessments",
+      "tool_type": 11,
+      "meaningful_description": "This grade-level fluency builder focuses on mixed addition and subtraction within 5.",
+      "display_title": "Add and Subtract",
+      "component": "Fluency",
+      "component_type": "Fluency Pratice",
+      "dashboardGroup": "Core Resources"
+    },
+    
+    {
+      "id": "9781328926043-00013",
+      "card": 15,
+      "HMH_ID": "NAME18GRAK_FLUPCA1",
+      "media_type": "HTML",
+      "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+      "se_facing": true,
+      "sort_id": "",
+      "categorization": "Assessments",
+      "tool_type": 11,
+      "meaningful_description": "This future fluency starter focuses on all addition within 10, weighted toward easy.",
+      "display_title": "Challenge, Add ",
+      "component": "Fluency",
+      "component_type": "Fluency Pratice",
+      "dashboardGroup": "Core Resources"
+    },
+    
+    {
+      "id": "9781328926043-00015",
+      "card": 15,
+      "HMH_ID": "NAME18GRAK_FLUPCS1",
+      "media_type": "HTML",
+      "parent_resource_id": "MXCC_NA18E_PMT_G00U00L00S16_9999",
+      "se_facing": true,
+      "sort_id": "",
+      "categorization": "Assessments",
+      "tool_type": 11,
+      "meaningful_description": "This future fluency starter focuses on all subtraction within 10, weighted toward easy.",
+      "display_title": "Challenge, Subtract",
+      "component": "Fluency",
+      "component_type": "Fluency Pratice",
+      "dashboardGroup": "Core Resources"
+    }
+   
+  ]
+}

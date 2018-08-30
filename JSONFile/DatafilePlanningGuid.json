@@ -1,0 +1,32 @@
+{
+  "isbn": "123",
+  "program": "123",
+  "grade": "1",
+  "non_grade_title": "123",
+  "programType": "ela",
+  "teacher": [
+    {
+      "component": "Core Resources",
+      "libraryItems": [
+          {
+          "id": "9781328786760-00001",
+          "card": 15,
+          "HMH_ID": "MXCC_NA18E_PLG_G0KU00L00S22_0001",
+          "media_type": "PDF",
+          "parent_resource_id": "",
+          "se_facing": false,
+          "sort_id": "",
+          "relative_url": "/content/hsp/math/mx2018/na/grk/planning_guide_9781328786760_/DMA-K_MNLEPG703835_Strung.pdf",
+          "categorization": "Teaching Aids",
+          "tool_type": "",
+          "meaningful_description": "Every Math Expressions lesson includes opportunities for differentiated instruction for all learners. Differentiated instruction activities appear in a handy classroom kit and online.",
+          "display_title": " Math Activity Center at a Glance",
+          "component_type": "Planning",
+          "component": " Math Activity Center Planning Guide",
+          "dashboardGroup": "Core Resources"
+        }
+      ]
+    }
+  ],
+  "student": []
+}
